@@ -2,13 +2,17 @@
 
 A visual comparative geospatial analysis of cycling infrastructure density and its relationship to pollution levels in Berlin and London
 
+![](figs/app_snip.PNG)
+
+# Running the application
+
 ### Environment setup
 
   ```
   python pip install requirements.txt
   ```
 
-### PostgreSQL Database creation
+### PostgreSQL database creation
 
   1. Create a database in your local PostgreSQL Server with PgAdmin4 (for more information refer to the [PostgreSQL Documentation](https://www.postgresql.org/docs/)
   
@@ -31,9 +35,21 @@ A visual comparative geospatial analysis of cycling infrastructure density and i
   ```
       createDB()
   ```
-### Running the application
+### Running the code
 Run the following command in your terminal
 
   ```
   streamlit run app.py
   ```
+
+# References
+This project uses publicly available data from the following official sources:
+
+Transport for London (TfL)
+Data obtained from the [TfL Open Data Portal](https://tfl.gov.uk/info-for/open-data-users/)
+
+Greater London Authority (GLA)
+Data accessed via the [London Datastore](https://data.london.gov.uk/)
+
+Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment
+Data retrieved from the [Berlin Open Data Portal](https://daten.berlin.de/)
