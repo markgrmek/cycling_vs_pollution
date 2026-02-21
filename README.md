@@ -28,7 +28,7 @@ A visual comparative geospatial analysis of cycling infrastructure density and i
                            password=<your password>,
                            host=<host>,
                            port=<port>,
-                           database=<name of database where you want your data to be stored>)
+                           database=<your database name>)
   ```
 
   (all needed data can be found in PgAdmin4 -> right click on the server dropdown (usually PostgreSQL <version>) -> Connection)
