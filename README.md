@@ -42,7 +42,7 @@ Run the following command in your terminal
   streamlit run app.py
   ```
 
-# References
+# Data Disclaimer
 This project uses publicly available data from the following official sources:
 
 Transport for London (TfL)
@@ -53,3 +53,5 @@ Data accessed via the [London Datastore](https://data.london.gov.uk/)
 
 Berlin Senate Department for Mobility, Transport, Climate Protection and the Environment
 Data retrieved from the [Berlin Open Data Portal](https://daten.berlin.de/)
+
+The original data remain the property of their respective providers. The versions included here have been cleaned, processed, and reformatted for the purposes of this project. This repository does not claim ownership of the original data. Users seeking authoritative or updated versions of the datasets should consult the respective official data portals.
