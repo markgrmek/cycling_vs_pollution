@@ -1,5 +1,7 @@
 # Cycling VS Pollution
 
+**co-authors: [KyungYunChoi](https://github.com/KyungYunChoi) and [Zahra-8d](https://github.com/Zahra-8d)**
+
 A visual comparative geospatial analysis of cycling infrastructure density and its relationship to pollution levels in Berlin and London
 
 ![](figs/app_snip.PNG)
